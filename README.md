@@ -19,7 +19,7 @@ Welcome to PiratesTV! Follow the instructions below to get the best experience u
 
 ## Authors
 
-- [@FunctionError](https://github.com/noobmaster403)
+- [@FunctionError](https://github.com/starflixbd_iptv)
 
 ### 📺 Join Us 👇
 
@@ -31,11 +31,11 @@ Welcome to PiratesTV! Follow the instructions below to get the best experience u
 1. **Access Ott Platfrom playlist :**
    - Playlist link for NS Player: 👇
      ```
-     https://raw.githubusercontent.com/FunctionError/ott-platforms/main/ns_player.m3u
+     https://raw.githubusercontent.com/starflixhd/ott-platforms/main/ns_player.m3u
      ```
    - Playlist link for Ott Navigator: 👇
      ```
-     https://raw.githubusercontent.com/FunctionError/ott-platforms/main/ott_nav.m3u
+     https://raw.githubusercontent.com/starflixhd/ott-platforms/main/ott_nav.m3u
      ```
 
 2. **App Setup:**
