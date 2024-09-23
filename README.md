@@ -1,8 +1,8 @@
 # Tsports and Toffee Playlist - Best Experience Guide
 
-Welcome to PiratesTV! Follow the instructions below to get the best experience using the OTT-Platforms Playlist.
+Welcome to Devil-IpTV! Follow the instructions below to get the best experience using the OTT-Platforms Playlist.
 
-![Logo](https://i.ibb.co/KF7tMH3/Pirates-Tv-15.png)
+![Logo](https://i.ibb.co.com/HKTq5Pr/68747470733a2f2f692e6962622e636f2f4b4637744d48332f506972617465732d54762d31352e706e67.png)
 
 <p align="center">
   
@@ -19,12 +19,12 @@ Welcome to PiratesTV! Follow the instructions below to get the best experience u
 
 ## Authors
 
-- [@FunctionError](https://github.com/starflixbd_iptv)
+- [@Devil-Iptv](https://github.com/devil_iptv)
 
 ### 📺 Join Us 👇
 
-[![telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://socials.piratestv.workers.dev/tg)
-[![discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://socials.piratestv.workers.dev/discord)
+[![telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](fffffflink)
+[![discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](link)
 
 ## Usage
 
@@ -53,7 +53,7 @@ Enjoy streaming your favorite shows with Toffee and T Sports.
 
 ## Conclusion
 
-Thank you for choosing PiratesTV OTT Platforms. Have a great time watching your favorite content!
+Thank you for choosing Devil-IpTV OTT Platforms. Have a great time watching your favorite content!
 
 ---
 
